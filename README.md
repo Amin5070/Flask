@@ -1,4 +1,4 @@
-lask installation
+flask installation
 pip install Flask
 
 project structure
